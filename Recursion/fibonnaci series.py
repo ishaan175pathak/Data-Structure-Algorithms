@@ -10,4 +10,4 @@ def fibonnaci_series(n):
         return (a+b,a)
 
 
-fibonnaci_series(int(input("Enter the Range: "))
+fibonnaci_series(int(input("Enter the Range: ")))
